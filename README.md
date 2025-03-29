@@ -6,4 +6,4 @@
 
 🌱 Interested in software development, GNU/Linux systems, and collaborative work.
 
-🔗 [My personal page on Google Sites](https://sites.google.com/uoc.edu/mgonzalezperal/home)
+🔗 [My personal page on Google Sites](https://sites.google.com/uoc.edu/mgonzalez/home)
