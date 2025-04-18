@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Manuel
 
-💻 Systems technician with over 20 years of experience, passionate about computing since the 90s.
+💻 Systems technician, passionate about computing since the 90s.
 
 🎓 Currently studying a Bachelor's Degree in Computer Engineering at UOC (Universitat Oberta de Catalunya).
 
